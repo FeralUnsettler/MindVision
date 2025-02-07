@@ -1,0 +1,6 @@
+opencv-python
+picamera2
+langchain_core
+langchain_google_genai
+hailo_sdk
+v4l2-ctl

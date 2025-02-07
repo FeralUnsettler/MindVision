@@ -1,0 +1,4 @@
+opencv-python
+streamlit
+numpy
+llama_index
