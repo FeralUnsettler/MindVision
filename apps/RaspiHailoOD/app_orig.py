@@ -16,7 +16,7 @@ picam2.configure("preview")
 picam2.start()
 
 # ✅ Configuração da Google API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBLUt8QsfsdgRH0sasMA52FomgThVY6Lv8"  # <== O usuário deverá inserir a chave correta.
+os.environ["GOOGLE_API_KEY"] = ""  # <== O usuário deverá inserir a chave correta.
 
 # ✅ Inicializa o modelo Gemini da Google (modelo "gemini-1.5-flash")
 model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
