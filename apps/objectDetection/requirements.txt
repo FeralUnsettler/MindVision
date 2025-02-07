@@ -2,3 +2,5 @@ opencv-python
 streamlit
 numpy
 llama_index
+llama-index-llms-gemini
+google-generativeai
