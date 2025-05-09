@@ -145,18 +145,17 @@ Use of funds: R\&D (40%), hiring (30%), marketing (20%), legal/admin (10%)
 
 * Acquisition by major AI, EdTech, or HealthTech firms (e.g., Google, Microsoft, Coursera, Philips)
 * IPO after Series B/C depending on traction and growth
+---
+---
+M achine 
+I ntelligence for 
+N eural 
+D etection and 
+V isual 
+I nsight 
+S ystems 
+I ntegrated 
+O ver 
+N etworks - 2025 BananaMachinadaDS
 
----
-Machine 
-Intelligence for 
-Neural 
-Detection and 
-Visual 
-Insight 
-Systems 
-Integrated 
-Over 
-Networks
- - 2025 BananaMachinadaDS
----
 
