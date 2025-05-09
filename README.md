@@ -2,7 +2,11 @@
 <img src="https://github.com/user-attachments/assets/bb17088e-1522-47a8-9a2f-1faff8a86eac" alt="MindVision" width="40%" height="40%">
 
 
-#### Business Plan
+
+---
+##### Business Plan
+---
+
 
 ### **1. Executive Summary**
 
