@@ -8,10 +8,10 @@
 
 ### **1. Executive Summary**
 
-**Business Name:** MINDVISION
-**Concept:** A platform offering AI-powered visual cognitive analytics through neural detection and computer vision, designed to support industries such as healthcare, education, security, and sports.
-**Mission:** To enhance human understanding of behavior, attention, and emotion through advanced AI-powered visual and neural insight systems.
-**Vision:** To become the leading platform for real-time human-centric visual intelligence across the globe.
+#### **Business Name:** MINDVISION
+#### **Concept:** A platform offering AI-powered visual cognitive analytics through neural detection and computer vision, designed to support industries such as healthcare, education, security, and sports.
+#### **Mission:** To enhance human understanding of behavior, attention, and emotion through advanced AI-powered visual and neural insight systems.
+#### **Vision:** To become the leading platform for real-time human-centric visual intelligence across the globe.
 
 ---
 
