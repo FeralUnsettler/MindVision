@@ -140,6 +140,13 @@ Use of funds: R\&D (40%), hiring (30%), marketing (20%), legal/admin (10%)
 
 ---
 
+
+### **10. Exit Strategy**
+
+* Acquisition by major AI, EdTech, or HealthTech firms (e.g., Google, Microsoft, Coursera, Philips)
+* IPO after Series B/C depending on traction and growth
+
+---
 Machine 
 Intelligence for 
 Neural 
@@ -150,11 +157,6 @@ Systems
 Integrated 
 Over 
 Networks
-
-
-### **10. Exit Strategy**
-
-* Acquisition by major AI, EdTech, or HealthTech firms (e.g., Google, Microsoft, Coursera, Philips)
-* IPO after Series B/C depending on traction and growth
-
+ - 2025 BananaMachinadaDS
 ---
+
