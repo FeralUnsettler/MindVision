@@ -1,7 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/bb17088e-1522-47a8-9a2f-1faff8a86eac" alt="MindVision" width="40%" height="40%">
 
-
+<img src="https://github.com/user-attachments/assets/c292ff37-2174-4a16-8be2-74f8a4c34c0b" alt="MindVision" width="40%" height="40%">
 
 ---
 ##### Business Plan
